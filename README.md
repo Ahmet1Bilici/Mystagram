@@ -5,16 +5,14 @@
 ## User Stories
 
 - User can view the last 20 posts submitted to "Instagram".
-- The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View.
+- The user can switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 - User can pull to refresh the last 20 posts submitted to "Instagram".
-
-The following features are implemented:
-
 - User sees app icon in home screen and styled bottom navigation view
 - Style the feed to look like the real Instagram feed.
-- Show the username and creation time for each post.
+- Shows the username and creation time for each post.
 - User can tap a post to view post details, including timestamp and caption.
 - User can like a post and see number of likes for each post in the post details screen.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
