@@ -2,8 +2,6 @@
 
 **Mystagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **16** hours spent in total
-
 ## User Stories
 
 - User can view the last 20 posts submitted to "Instagram".
